@@ -1,0 +1,51 @@
+## STATIC CONFIGURATION
+log:
+  level: INFO
+
+api:
+  insecure: true
+  dashboard: true
+
+entryPoints:
+  web:
+    address: ':80'
+
+providers:
+  docker:
+    watch: true
+    endpoint: 'unix:///var/run/docker.sock'
+  file:
+    filename: 'traefik.yml'
+
+## DYNAMIC CONFIGURATION
+http:
+  routers:
+    local-frontend:
+      rule: 'Host(`platform.pathfinder.test`)'
+      service: local-frontend
+      entryPoints:
+        - web
+    local-backend:
+      rule: 'Host(`api.platform.pathfinder.test`)'
+      service: local-backend
+      entryPoints:
+        - web
+    mailhog:
+      rule: 'Host(`mail.platform.pathfinder.test`)'
+      service: mailhog
+      entryPoints:
+        - web
+
+  services:
+    local-frontend:
+      loadBalancer:
+        servers:
+          - url: 'http://host.docker.internal:3000'
+    local-backend:
+      loadBalancer:
+        servers:
+          - url: 'http://host.docker.internal:8000'
+    mailhog:
+      loadBalancer:
+        servers:
+          - url: 'http://host.docker.internal:8025'

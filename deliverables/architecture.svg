@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1689 842" style="enable-background:new 0 0 1689 842;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st1{font-family:'Arial-ItalicMT';}
+	.st2{font-size:36px;}
+	.st3{fill:#EFEFEF;stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:#FCFCCA;stroke:#000000;stroke-miterlimit:10;}
+	.st5{font-family:'ArialMT';}
+	.st6{font-size:19.712px;}
+	.st7{fill:#F9CACA;stroke:#000000;stroke-miterlimit:10;}
+	.st8{fill:#F4D9FF;stroke:#000000;stroke-miterlimit:10;}
+	.st9{fill:#C3F7C8;stroke:#000000;stroke-miterlimit:10;}
+	.st10{fill:#CFE4FF;stroke:#000000;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<polyline class="st0" points="390,51 368,51 368,382 390,382 "/>
+<text transform="matrix(1 0 0 1 42.5737 223.333)" class="st1 st2">Presentation Layer</text>
+<text transform="matrix(1 0 0 1 101.6021 490.333)" class="st1 st2">Business Layer</text>
+<text transform="matrix(1 0 0 1 80.5962 603.333)" class="st1 st2">Persistence Layer</text>
+<text transform="matrix(1 0 0 1 97.5854 716.333)" class="st1 st2">Database Layer</text>
+<path class="st3" d="M420.6,223.5h674.7c13.9,0,25.1-11.3,25.1-25.1V69.6c0-13.9-11.3-25.1-25.1-25.1H420.6
+	c-13.9,0-25.1,11.3-25.1,25.1v128.7C395.5,212.2,406.8,223.5,420.6,223.5z"/>
+<path class="st4" d="M960.9,161.5H453.1c-8.6,0-15.6-7-15.6-15.6V95.1c0-8.6,7-15.6,15.6-15.6h507.7c8.6,0,15.6,7,15.6,15.6v50.7
+	C976.5,154.5,969.5,161.5,960.9,161.5z"/>
+<text transform="matrix(1 0 0 1 509.9229 128.6387)" class="st5 st2">Next.js app (Static Build)</text>
+<text transform="matrix(1 0 0 1 674.6953 208.124)" class="st5 st6">Cybera Docker Deploy (nginx S3 like bucket)</text>
+<path class="st3" d="M420.6,643.5h906.7c13.9,0,25.1-8.3,25.1-18.4V280.9c0-10.2-11.3-18.4-25.1-18.4H420.6
+	c-13.9,0-25.1,8.3-25.1,18.4V625C395.5,635.2,406.8,643.5,420.6,643.5z"/>
+<path class="st3" d="M420.6,757h906.7c13.9,0,25.1-2.3,25.1-5.1v-95.3c0-2.8-11.3-5.1-25.1-5.1H420.6c-13.9,0-25.1,2.3-25.1,5.1
+	v95.3C395.5,754.7,406.8,757,420.6,757z"/>
+<text transform="matrix(1 0 0 1 1066.9297 408)" class="st5 st2">Django Auth</text>
+<path class="st4" d="M1285,464.5h-237c-8.6,0-15.6-7-15.6-15.6v-54.7c0-8.6,7-15.6,15.6-15.6h237c8.6,0,15.6,7,15.6,15.6v54.7
+	C1300.6,457.5,1293.6,464.5,1285,464.5z"/>
+<text transform="matrix(1 0 0 1 1066.9297 430)" class="st5 st2">Django Auth</text>
+<path class="st7" d="M1642,792.5h-237c-8.6,0-15.6-7-15.6-15.6v-54.7c0-8.6,7-15.6,15.6-15.6h237c8.6,0,15.6,7,15.6,15.6v54.7
+	C1657.6,785.5,1650.6,792.5,1642,792.5z"/>
+<text transform="matrix(1 0 0 1 1450.9473 757)" class="st5 st2">Sendgrid</text>
+<path class="st4" d="M1285,576.5h-237c-8.6,0-15.6-7-15.6-15.6v-54.7c0-8.6,7-15.6,15.6-15.6h237c8.6,0,15.6,7,15.6,15.6v54.7
+	C1300.6,569.5,1293.6,576.5,1285,576.5z"/>
+<path class="st4" d="M965.8,399.5H685.1c-8.6,0-15.6-7-15.6-15.6v-68.7c0-8.6,7-15.6,15.6-15.6h280.7c8.6,0,15.6,7,15.6,15.6v68.7
+	C981.5,392.5,974.5,399.5,965.8,399.5z"/>
+<text transform="matrix(1 0 0 1 713.5946 338.6387)" class="st5 st2">Django admin</text>
+<text transform="matrix(1 0 0 1 755.5946 381.8387)" class="st5 st2">interface</text>
+<text transform="matrix(1 0 0 1 1066.9297 629.5)" class="st5 st6">Cybera RAC (Docker)</text>
+<text transform="matrix(1 0 0 1 1083.6953 744.9)" class="st5 st6">Cybera RAC Docker Volume</text>
+<text transform="matrix(1 0 0 1 607.9943 581.6387)" class="st5 st2">Django ORM</text>
+<path class="st8" d="M965.9,739.5H458.1c-8.6,0-15.6-7-15.6-15.6v-50.7c0-8.6,7-15.6,15.6-15.6h507.7c8.6,0,15.6,7,15.6,15.6v50.7
+	C981.5,732.5,974.5,739.5,965.9,739.5z"/>
+<text transform="matrix(1 0 0 1 583.9688 706.6387)" class="st5 st2">PostgreSQL DB</text>
+<text transform="matrix(1 0 0 1 607.9943 581.6387)" class="st5 st2">Django ORM</text>
+<path class="st9" d="M746.9,518.5H458.1c-8.6,0-15.6-7-15.6-15.6v-50.7c0-8.6,7-15.6,15.6-15.6h288.7c8.6,0,15.6,7,15.6,15.6v50.7
+	C762.5,511.5,755.5,518.5,746.9,518.5z"/>
+<text transform="matrix(1 0 0 1 495.9776 485.6387)" class="st5 st2">Django REST</text>
+<path class="st10" d="M965.9,629.5H458.1c-8.6,0-15.6-7-15.6-15.6v-50.7c0-8.6,7-15.6,15.6-15.6h507.7c8.6,0,15.6,7,15.6,15.6v50.7
+	C981.5,622.5,974.5,629.5,965.9,629.5z"/>
+<text transform="matrix(1 0 0 1 607.9943 596.6387)" class="st5 st2">Django ORM</text>
+<g>
+	<g>
+		<line class="st11" x1="874.5" y1="405.5" x2="874.5" y2="541"/>
+		<g>
+			<path d="M874.5,399.5c-1.1,2.8-2.9,6.4-4.8,8.5l4.8-1.7l4.8,1.7C877.4,405.9,875.6,402.3,874.5,399.5z"/>
+		</g>
+		<g>
+			<path d="M874.5,547c-1.1-2.8-2.9-6.4-4.8-8.5l4.8,1.7l4.8-1.7C877.4,540.6,875.6,544.2,874.5,547z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st11" x1="637.5" y1="167.5" x2="637.5" y2="430"/>
+		<g>
+			<path d="M637.5,161.5c-1.1,2.8-2.9,6.4-4.8,8.5l4.8-1.7l4.8,1.7C640.4,167.9,638.6,164.3,637.5,161.5z"/>
+		</g>
+		<g>
+			<path d="M637.5,436c-1.1-2.8-2.9-6.4-4.8-8.5l4.8,1.7l4.8-1.7C640.4,429.6,638.6,433.2,637.5,436z"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 1051.9268 541)" class="st5 st2">Sending email</text>
+<g>
+	<g>
+		<line class="st11" x1="768.5" y1="477.5" x2="1132.5" y2="477.5"/>
+		<g>
+			<path d="M762.5,477.5c2.8,1.1,6.4,2.9,8.5,4.8l-1.7-4.8l1.7-4.8C768.9,474.6,765.3,476.4,762.5,477.5z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st11" x1="727.5" y1="525" x2="727.5" y2="541"/>
+		<g>
+			<path d="M727.5,519c-1.1,2.8-2.9,6.4-4.8,8.5l4.8-1.7l4.8,1.7C730.4,525.4,728.6,521.8,727.5,519z"/>
+		</g>
+		<g>
+			<path d="M727.5,547c-1.1-2.8-2.9-6.4-4.8-8.5l4.8,1.7l4.8-1.7C730.4,540.6,728.6,544.2,727.5,547z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st11" x1="729.5" y1="635.5" x2="729.5" y2="651.5"/>
+		<g>
+			<path d="M729.5,629.5c-1.1,2.8-2.9,6.4-4.8,8.5l4.8-1.7l4.8,1.7C732.4,635.9,730.6,632.3,729.5,629.5z"/>
+		</g>
+		<g>
+			<path d="M729.5,657.5c-1.1-2.8-2.9-6.4-4.8-8.5l4.8,1.7l4.8-1.7C732.4,651.1,730.6,654.7,729.5,657.5z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st11" x1="1233.5" y1="581" x2="1385.5" y2="750"/>
+		<g>
+			<path d="M1229.5,576.5c1.1,2.8,2.1,6.6,2.2,9.5l2.4-4.5l4.7-1.9C1235.9,579.3,1232.2,577.9,1229.5,576.5z"/>
+		</g>
+		<g>
+			<path d="M1389.5,754.5c-2.7-1.4-6.4-2.8-9.3-3.2l4.7-1.9l2.4-4.5C1387.4,747.9,1388.4,751.7,1389.5,754.5z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st11" x1="1132.5" y1="484.5" x2="1132.5" y2="470.5"/>
+		<g>
+			<path d="M1132.5,490.5c1.1-2.8,2.9-6.4,4.8-8.5l-4.8,1.7l-4.8-1.7C1129.6,484.1,1131.4,487.7,1132.5,490.5z"/>
+		</g>
+		<g>
+			<path d="M1132.5,464.5c1.1,2.8,2.9,6.4,4.8,8.5l-4.8-1.7l-4.8,1.7C1129.6,470.9,1131.4,467.3,1132.5,464.5z"/>
+		</g>
+	</g>
+</g>
+<polyline class="st0" points="1321,293 1343,293 1343,624 1321,624 "/>
+<text transform="matrix(1 0 0 1 1371.6138 469.333)" class="st5 st2">Django 4</text>
+</svg>

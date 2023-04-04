@@ -1,0 +1,10 @@
+site_name: Pathfinder v2 Docs
+site_description: Documentation for the Pathfinder website
+site_author: CMPUT 401 Teams for Fall 2022/Winter 2023
+site_url: https://ualberta-cmput401.github.io/pathfinder-2
+repo_url: https://github.com/UAlberta-CMPUT401/pathfinder-2
+theme:
+  name: 'material'
+  palette:
+    primary: 'orange'
+    accent: 'deep orange'
